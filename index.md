@@ -29,3 +29,4 @@ Whats up!!!
 1. first
 2. second
 3. third
+[Lab Report 1](lab-report-1-week-2.html)
